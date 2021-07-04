@@ -1,0 +1,48 @@
+body {
+    background: pink;
+    font: normal 15pt arial;
+
+}
+
+header {
+    color: black;
+    text-align: center;
+
+}
+
+section{
+    background: rgb(236, 213, 213);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+
+}
+ 
+footer{
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
+
+div {
+    padding: 5px;
+}
+
+.btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: darksalmon;
+}
+
+img{
+    border-radius: 20px;
+    padding: 0px;
+    width: 250px;
+    margin: 10px 10px ;
+    box-shadow: 5px 5px 20px white;
+    animation-name: imgg;
+    animation-duration: 4s;
+}
